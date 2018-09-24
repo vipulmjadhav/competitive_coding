@@ -1,1 +1,0 @@
-examples on competitive coding
